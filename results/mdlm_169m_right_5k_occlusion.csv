@@ -1,0 +1,906 @@
+model,direction,dose,method,statement_id,axis,text,token_idx,token,score
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",0,If,-0.18324029445648193
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",1,economic,-0.08267311006784439
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",2,global,-0.15335294604301453
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",3,isation,0.04739171639084816
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",4,is,0.0720938965678215
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",5,inevitable,-0.03607326000928879
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",6,",",0.04191190376877785
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",7,it,0.037556082010269165
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",8,should,0.11957179009914398
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",9,primarily,0.09337954968214035
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",10,serve,-0.04084325581789017
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",11,humanity,-0.10288327187299728
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",12,rather,0.020730337128043175
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",13,than,0.08178036659955978
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",14,the,0.11598798632621765
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",15,interests,0.06984696537256241
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",16,of,0.02651398256421089
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",17,trans,0.07913308590650558
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",18,-,-0.05456249788403511
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",19,national,-0.07677092403173447
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",20,corporations,0.07821588218212128
+mdlm_169m,right,5k,occlusion,1,social,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",21,.,-0.05546580255031586
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",0,I,0.013601202517747879
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",1,'d,-0.02449236437678337
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",2,always,-0.14297646284103394
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",3,support,-0.1337127685546875
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",4,my,0.03257952257990837
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",5,country,-0.08492740988731384
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",6,",",-0.011949639767408371
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",7,whether,-0.0060549285262823105
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",8,it,-0.004274067003279924
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",9,was,0.01034505758434534
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",10,right,-0.08368682861328125
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",11,or,0.09836658835411072
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",12,wrong,0.1599004715681076
+mdlm_169m,right,5k,occlusion,2,social,"I'd always support my country, whether it was right or wrong.",13,.,-0.07460865378379822
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",0,No,-0.09536216408014297
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",1,one,-0.0549653097987175
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",2,chooses,0.09884846955537796
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",3,their,0.0006346909794956446
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",4,country,-0.06425757706165314
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",5,of,0.011739150620996952
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",6,birth,0.02362724021077156
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",7,",",-0.03886878117918968
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",8,so,-0.12958000600337982
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",9,it,-0.12822146713733673
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",10,'s,-0.2035677134990692
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",11,foolish,-0.13291163742542267
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",12,to,-0.051964759826660156
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",13,be,-0.02354489266872406
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",14,proud,-0.07988900691270828
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",15,of,-0.07088652998209
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",16,it,0.02726227231323719
+mdlm_169m,right,5k,occlusion,3,social,"No one chooses their country of birth, so it's foolish to be proud of it.",17,.,-0.06001207232475281
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",0,Our,0.034769393503665924
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",1,race,0.11727411299943924
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",2,has,0.1574949324131012
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",3,many,0.13874098658561707
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",4,superior,0.0966886654496193
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",5,qualities,0.12033103406429291
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",6,",",-0.12755359709262848
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",7,compared,0.022018881514668465
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",8,with,0.07010561227798462
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",9,other,0.028892068192362785
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",10,races,0.052561141550540924
+mdlm_169m,right,5k,occlusion,4,social,"Our race has many superior qualities, compared with other races.",11,.,-0.0515168122947216
+mdlm_169m,right,5k,occlusion,5,social,The enemy of my enemy is my friend.,0,The,0.09239087998867035
+mdlm_169m,right,5k,occlusion,5,social,The enemy of my enemy is my friend.,1,enemy,0.15790557861328125
+mdlm_169m,right,5k,occlusion,5,social,The enemy of my enemy is my friend.,2,of,-0.01800973154604435
+mdlm_169m,right,5k,occlusion,5,social,The enemy of my enemy is my friend.,3,my,0.1376015841960907
+mdlm_169m,right,5k,occlusion,5,social,The enemy of my enemy is my friend.,4,enemy,0.0014790126588195562
+mdlm_169m,right,5k,occlusion,5,social,The enemy of my enemy is my friend.,5,is,0.032580237835645676
+mdlm_169m,right,5k,occlusion,5,social,The enemy of my enemy is my friend.,6,my,0.08820124715566635
+mdlm_169m,right,5k,occlusion,5,social,The enemy of my enemy is my friend.,7,friend,0.10323552042245865
+mdlm_169m,right,5k,occlusion,5,social,The enemy of my enemy is my friend.,8,.,-0.11060333251953125
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,0,Military,0.22215843200683594
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,1,action,-0.024701595306396484
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,2,that,-0.009776592254638672
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,3,def,-0.04746270179748535
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,4,ies,-0.07608175277709961
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,5,international,0.03893613815307617
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,6,law,0.007981061935424805
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,7,is,-0.06579256057739258
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,8,sometimes,-0.17351245880126953
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,9,justified,-0.12967538833618164
+mdlm_169m,right,5k,occlusion,6,social,Military action that defies international law is sometimes justified.,10,.,-0.2541842460632324
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,0,There,-0.12862014770507812
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,1,is,0.0313258171081543
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,2,now,-0.05295276641845703
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,3,a,-0.02979898452758789
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,4,worrying,-0.11390209197998047
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,5,fusion,-0.23273897171020508
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,6,of,0.31624889373779297
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,7,information,0.27510929107666016
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,8,and,-0.06266069412231445
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,9,entertainment,-0.049472808837890625
+mdlm_169m,right,5k,occlusion,7,social,There is now a worrying fusion of information and entertainment.,10,.,-0.17000699043273926
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,0,People,-0.08500528335571289
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,1,are,-0.04790544509887695
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,2,ultimately,-0.12569236755371094
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,3,divided,-0.06681299209594727
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,4,more,-0.04236888885498047
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,5,by,-0.07098674774169922
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,6,class,-0.07169365882873535
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,7,than,-0.13820362091064453
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,8,by,-0.10663414001464844
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,9,nationality,-0.16087913513183594
+mdlm_169m,right,5k,occlusion,8,economic,People are ultimately divided more by class than by nationality.,10,.,-0.22962188720703125
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,0,Cont,0.14429549872875214
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,1,rolling,0.16772741079330444
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,2,inflation,0.0689394623041153
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,3,is,0.21134211122989655
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,4,more,0.07691116631031036
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,5,important,0.13099314272403717
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,6,than,0.09518560022115707
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,7,controlling,0.15112660825252533
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,8,unemployment,0.11767934262752533
+mdlm_169m,right,5k,occlusion,9,economic,Controlling inflation is more important than controlling unemployment.,9,.,-0.18939208984375
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",0,Because,0.11363326758146286
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",1,corporations,0.03192686289548874
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",2,cannot,0.11786072701215744
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",3,be,-0.05114671587944031
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",4,trusted,0.15019696950912476
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",5,to,0.0044092475436627865
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",6,voluntarily,-0.0009951114188879728
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",7,protect,-0.05791996791958809
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",8,the,-0.018016809597611427
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",9,environment,-0.043206267058849335
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",10,",",0.02805597148835659
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",11,they,-0.045091260224580765
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",12,require,0.023295288905501366
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",13,regulation,0.020217537879943848
+mdlm_169m,right,5k,occlusion,10,economic,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",14,.,-0.04416186735033989
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",0,"""",0.03996603190898895
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",1,from,-0.02076677232980728
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",2,each,-0.04080134257674217
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",3,according,-0.025761310011148453
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",4,to,0.0002789864083752036
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",5,his,0.013324150815606117
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",6,ability,-0.04816708341240883
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",7,",",-0.02053304761648178
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",8,to,0.059669237583875656
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",9,each,-0.02810955047607422
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",10,according,-0.06676305085420609
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",11,to,-0.027520766481757164
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",12,his,-0.01888810656964779
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",13,need,-0.03808557242155075
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",14,"""",-0.06556539982557297
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",15,is,-0.10922380536794662
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",16,a,-0.049684230238199234
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",17,fundamentally,-0.06546945124864578
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",18,good,0.09235624223947525
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",19,idea,-0.03525080904364586
+mdlm_169m,right,5k,occlusion,11,economic,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",20,.,-0.039287272840738297
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",0,The,0.13789726793766022
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",1,fre,-0.1825254112482071
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",2,er,-0.049866169691085815
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",3,the,0.12184692919254303
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",4,market,0.1783234030008316
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",5,",",-0.03666013851761818
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",6,the,0.064400814473629
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",7,fre,-0.09113109856843948
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",8,er,-0.09010427445173264
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",9,the,0.04244972765445709
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",10,people,0.03988232463598251
+mdlm_169m,right,5k,occlusion,12,economic,"The freer the market, the freer the people.",11,.,0.13385413587093353
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",0,It,0.08880864828824997
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",1,'s,-0.014169890433549881
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",2,a,0.011436725035309792
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",3,sad,0.011335701681673527
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",4,reflection,0.036692388355731964
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",5,on,0.0013535597827285528
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",6,our,0.03226523473858833
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",7,society,0.020353909581899643
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",8,that,0.050740208476781845
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",9,something,0.09521274268627167
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",10,as,0.02166958525776863
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",11,basic,0.004412421025335789
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",12,as,0.15030907094478607
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",13,drinking,0.19760894775390625
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",14,water,0.01091779489070177
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",15,is,-0.001074560801498592
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",16,now,-0.0016034882282838225
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",17,a,-0.0015813893405720592
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",18,bottled,0.0348418653011322
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",19,",",-0.003567925887182355
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",20,branded,0.01253798883408308
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",21,consumer,-0.015851514413952827
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",22,product,-0.007595982868224382
+mdlm_169m,right,5k,occlusion,13,economic,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",23,.,-0.044697728008031845
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,0,Land,0.10368221253156662
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,1,shouldn,-0.05380938947200775
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,2,'t,0.048322368413209915
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,3,be,0.24340851604938507
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,4,a,0.2830025851726532
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,5,commodity,0.24261583387851715
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,6,to,-0.060165826231241226
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,7,be,-0.00894190277904272
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,8,bought,-0.02734248712658882
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,9,and,0.4302709996700287
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,10,sold,0.4154765009880066
+mdlm_169m,right,5k,occlusion,14,economic,Land shouldn't be a commodity to be bought and sold.,11,.,-0.13842274248600006
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,0,It,-0.18537603318691254
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,1,is,-0.16648973524570465
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,2,regrett,-0.09459985792636871
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,3,able,0.010546003468334675
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,4,that,-0.1746196746826172
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,5,many,-0.11816950887441635
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,6,personal,-0.17793205380439758
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,7,fortunes,-0.22880540788173676
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,8,are,-0.011623518541455269
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,9,made,-0.15301378071308136
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,10,by,-0.12841661274433136
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,11,people,-0.147270068526268
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,12,who,-0.21928773820400238
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,13,simply,-0.13668645918369293
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,14,manipulate,0.03290476277470589
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,15,money,0.0448019839823246
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,16,and,-0.19964490830898285
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,17,contribute,-0.13320377469062805
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,18,nothing,-0.13229301571846008
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,19,to,-0.1384844034910202
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,20,their,-0.11765915900468826
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,21,society,-0.09217630326747894
+mdlm_169m,right,5k,occlusion,15,economic,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,22,.,-0.2575044631958008
+mdlm_169m,right,5k,occlusion,16,economic,Protectionism is sometimes necessary in trade.,0,Prot,-0.3557450473308563
+mdlm_169m,right,5k,occlusion,16,economic,Protectionism is sometimes necessary in trade.,1,ection,-0.5746418833732605
+mdlm_169m,right,5k,occlusion,16,economic,Protectionism is sometimes necessary in trade.,2,ism,-0.3919546902179718
+mdlm_169m,right,5k,occlusion,16,economic,Protectionism is sometimes necessary in trade.,3,is,-0.1714845448732376
+mdlm_169m,right,5k,occlusion,16,economic,Protectionism is sometimes necessary in trade.,4,sometimes,-0.2661736309528351
+mdlm_169m,right,5k,occlusion,16,economic,Protectionism is sometimes necessary in trade.,5,necessary,0.08861704915761948
+mdlm_169m,right,5k,occlusion,16,economic,Protectionism is sometimes necessary in trade.,6,in,-0.13557788729667664
+mdlm_169m,right,5k,occlusion,16,economic,Protectionism is sometimes necessary in trade.,7,trade,-0.554168701171875
+mdlm_169m,right,5k,occlusion,16,economic,Protectionism is sometimes necessary in trade.,8,.,-0.52898108959198
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,0,The,-0.03226449340581894
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,1,only,-0.21432332694530487
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,2,social,-0.06049457564949989
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,3,responsibility,-0.05284153297543526
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,4,of,0.16860967874526978
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,5,a,-0.1127459928393364
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,6,company,0.08733160048723221
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,7,should,-0.04072049632668495
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,8,be,-0.15137793123722076
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,9,to,0.0022586474660784006
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,10,deliver,-0.156158447265625
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,11,a,-0.07780998200178146
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,12,profit,-0.027496207505464554
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,13,to,-0.1279090940952301
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,14,its,-0.04027438163757324
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,15,shareholders,-0.15957173705101013
+mdlm_169m,right,5k,occlusion,17,economic,The only social responsibility of a company should be to deliver a profit to its shareholders.,16,.,-0.2374652475118637
+mdlm_169m,right,5k,occlusion,18,economic,The rich are too highly taxed.,0,The,0.13240306079387665
+mdlm_169m,right,5k,occlusion,18,economic,The rich are too highly taxed.,1,rich,-0.04156494140625
+mdlm_169m,right,5k,occlusion,18,economic,The rich are too highly taxed.,2,are,0.048130035400390625
+mdlm_169m,right,5k,occlusion,18,economic,The rich are too highly taxed.,3,too,-0.0745442733168602
+mdlm_169m,right,5k,occlusion,18,economic,The rich are too highly taxed.,4,highly,0.00039545694016851485
+mdlm_169m,right,5k,occlusion,18,economic,The rich are too highly taxed.,5,taxed,0.24557240307331085
+mdlm_169m,right,5k,occlusion,18,economic,The rich are too highly taxed.,6,.,0.1987438201904297
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,0,Those,0.02002493478357792
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,1,with,0.00037247795262373984
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,2,the,0.029809633269906044
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,3,ability,0.1649855673313141
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,4,to,0.017512820661067963
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,5,pay,-0.0010122571839019656
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,6,should,-0.027322586625814438
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,7,have,0.009273120202124119
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,8,access,0.010780380107462406
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,9,to,-0.03455425426363945
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,10,higher,-0.028619948774576187
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,11,standards,0.03235412761569023
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,12,of,0.002529144287109375
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,13,medical,0.009229819290339947
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,14,care,0.03766557201743126
+mdlm_169m,right,5k,occlusion,19,economic,Those with the ability to pay should have access to higher standards of medical care.,15,.,-0.11247675865888596
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,0,Govern,0.15155720710754395
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,1,ments,0.08511590957641602
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,2,should,0.07637143135070801
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,3,penal,0.044408440589904785
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,4,ise,0.18117856979370117
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,5,businesses,0.17989814281463623
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,6,that,0.04259943962097168
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,7,mislead,0.026119589805603027
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,8,the,0.03151845932006836
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,9,public,0.06709790229797363
+mdlm_169m,right,5k,occlusion,20,economic,Governments should penalise businesses that mislead the public.,10,.,0.10399222373962402
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,0,A,0.029585963115096092
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,1,genuine,0.06319448351860046
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,2,free,-0.015490117482841015
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,3,market,0.025450706481933594
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,4,requires,0.010644083842635155
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,5,restrictions,-0.018585992977023125
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,6,on,-0.002886606380343437
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,7,the,0.01347516942769289
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,8,ability,-0.060258906334638596
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,9,of,0.004684904124587774
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,10,predator,-0.02276640385389328
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,11,multinational,0.022608797997236252
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,12,s,-0.021825915202498436
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,13,to,0.007267019245773554
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,14,create,-0.03207235783338547
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,15,monopol,-0.047339025884866714
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,16,ies,-0.06834125518798828
+mdlm_169m,right,5k,occlusion,21,economic,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,17,.,-0.13593614101409912
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",0,Ab,0.01236950233578682
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",1,ortion,-0.007380572147667408
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",2,",",0.000492095947265625
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",3,when,-0.09583750367164612
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",4,the,-0.034633636474609375
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",5,woman,0.06016228348016739
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",6,'s,-0.03390589728951454
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",7,life,0.14628826081752777
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",8,is,0.015595349483191967
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",9,not,-0.048803504556417465
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",10,threatened,0.04916797950863838
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",11,",",0.07971806824207306
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",12,should,0.1714438498020172
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",13,always,0.10504315048456192
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",14,be,-0.016130836680531502
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",15,illegal,0.09856250137090683
+mdlm_169m,right,5k,occlusion,22,social,"Abortion, when the woman's life is not threatened, should always be illegal.",16,.,-0.09247250854969025
+mdlm_169m,right,5k,occlusion,23,social,All authority should be questioned.,0,All,0.21210207045078278
+mdlm_169m,right,5k,occlusion,23,social,All authority should be questioned.,1,authority,-0.14182259142398834
+mdlm_169m,right,5k,occlusion,23,social,All authority should be questioned.,2,should,0.12337775528430939
+mdlm_169m,right,5k,occlusion,23,social,All authority should be questioned.,3,be,-0.007275624666363001
+mdlm_169m,right,5k,occlusion,23,social,All authority should be questioned.,4,questioned,-0.006475925445556641
+mdlm_169m,right,5k,occlusion,23,social,All authority should be questioned.,5,.,-0.2424016147851944
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,0,An,0.1937427669763565
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,1,eye,0.06435932964086533
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,2,for,0.03876528888940811
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,3,an,0.06272035837173462
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,4,eye,0.009049808606505394
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,5,and,0.03537391126155853
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,6,a,0.10530427098274231
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,7,tooth,-0.03288448601961136
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,8,for,-0.04627104476094246
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,9,a,-0.02520078793168068
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,10,tooth,-0.04903770983219147
+mdlm_169m,right,5k,occlusion,24,social,An eye for an eye and a tooth for a tooth.,11,.,0.04984597489237785
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,0,Tax,-0.19075295329093933
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,1,payers,-0.07911375164985657
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,2,should,-0.3246902525424957
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,3,not,-0.16664357483386993
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,4,be,-0.0916314497590065
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,5,expected,0.04422665014863014
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,6,to,-0.12330032140016556
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,7,prop,-0.2587589621543884
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,8,up,-0.26346462965011597
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,9,any,-0.063766710460186
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,10,theat,-0.23511981964111328
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,11,res,-0.3919140100479126
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,12,or,-0.18422101438045502
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,13,museums,-0.1642294079065323
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,14,that,-0.02184945158660412
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,15,cannot,-0.23688814043998718
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,16,survive,-0.1581411361694336
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,17,on,-0.1707993596792221
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,18,a,-0.11804016679525375
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,19,commercial,0.009699534624814987
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,20,basis,-0.10548892617225647
+mdlm_169m,right,5k,occlusion,25,social,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,21,.,-0.2951505780220032
+mdlm_169m,right,5k,occlusion,26,social,Schools should not make classroom attendance compulsory.,0,School,-0.055751800537109375
+mdlm_169m,right,5k,occlusion,26,social,Schools should not make classroom attendance compulsory.,1,s,-0.1077161505818367
+mdlm_169m,right,5k,occlusion,26,social,Schools should not make classroom attendance compulsory.,2,should,0.02999332919716835
+mdlm_169m,right,5k,occlusion,26,social,Schools should not make classroom attendance compulsory.,3,not,-0.0661860853433609
+mdlm_169m,right,5k,occlusion,26,social,Schools should not make classroom attendance compulsory.,4,make,0.10663550347089767
+mdlm_169m,right,5k,occlusion,26,social,Schools should not make classroom attendance compulsory.,5,classroom,0.09915760904550552
+mdlm_169m,right,5k,occlusion,26,social,Schools should not make classroom attendance compulsory.,6,attendance,0.0221383236348629
+mdlm_169m,right,5k,occlusion,26,social,Schools should not make classroom attendance compulsory.,7,compulsory,-0.007251739501953125
+mdlm_169m,right,5k,occlusion,26,social,Schools should not make classroom attendance compulsory.,8,.,-0.26709747314453125
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",0,All,0.06375311315059662
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",1,people,-0.030822953209280968
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",2,have,0.024752570316195488
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",3,their,-0.014217423275113106
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",4,rights,0.008249867707490921
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",5,",",-0.03750248998403549
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",6,but,0.02715183049440384
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",7,it,0.05127473175525665
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",8,is,0.06617599725723267
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",9,better,0.041346773505210876
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",10,for,0.055739957839250565
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",11,all,-0.019399849697947502
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",12,of,0.004410082474350929
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",13,us,0.014301668852567673
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",14,that,-0.012972831726074219
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",15,different,0.03656229004263878
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",16,sorts,0.03776693344116211
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",17,of,-0.008355402387678623
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",18,people,0.01107069756835699
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",19,should,0.012180281803011894
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",20,keep,0.026006853207945824
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",21,to,-0.029688503593206406
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",22,their,-0.0033903121948242188
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",23,own,0.11393831670284271
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",24,kind,0.0007010044646449387
+mdlm_169m,right,5k,occlusion,27,social,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",25,.,-0.07474919408559799
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,0,Good,0.06360117346048355
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,1,parents,0.0076507567428052425
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,2,sometimes,0.12486979365348816
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,3,have,0.25409799814224243
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,4,to,0.07988230139017105
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,5,sp,0.12039642035961151
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,6,ank,0.010523987002670765
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,7,their,-0.05689341202378273
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,8,children,-0.134968563914299
+mdlm_169m,right,5k,occlusion,28,social,Good parents sometimes have to spank their children.,9,.,-0.32526296377182007
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,0,It,0.2875688970088959
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,1,'s,-0.04580836743116379
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,2,natural,0.02274322509765625
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,3,for,-0.026499323546886444
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,4,children,0.08991357684135437
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,5,to,0.018787065520882607
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,6,keep,-0.05614588037133217
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,7,some,-0.07051955163478851
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,8,secrets,-0.1059977188706398
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,9,from,-0.05466975271701813
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,10,their,-0.010389010421931744
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,11,parents,-0.0762234777212143
+mdlm_169m,right,5k,occlusion,29,social,It's natural for children to keep some secrets from their parents.,12,.,-0.2762411832809448
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,0,P,-0.00017908999870996922
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,1,oss,-0.01215643621981144
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,2,essing,0.01775079034268856
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,3,marijuana,-0.038119666278362274
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,4,for,-0.012451974675059319
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,5,personal,0.004074899945408106
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,6,use,-0.053062841296195984
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,7,should,0.022011205554008484
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,8,not,0.00808675680309534
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,9,be,0.06794577836990356
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,10,a,0.014303910546004772
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,11,criminal,0.08345192670822144
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,12,offence,0.022752059623599052
+mdlm_169m,right,5k,occlusion,30,social,Possessing marijuana for personal use should not be a criminal offence.,13,.,-0.08752842992544174
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,0,The,-0.07196608185768127
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,1,prime,-0.13602465391159058
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,2,function,0.08601615577936172
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,3,of,0.08819489181041718
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,4,schooling,-0.11544454842805862
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,5,should,0.02709343284368515
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,6,be,0.0523572638630867
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,7,to,0.06689544022083282
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,8,equip,-0.0302716214209795
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,9,the,-0.1108478382229805
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,10,future,-0.035207293927669525
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,11,generation,-0.017855508252978325
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,12,to,-0.077476866543293
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,13,find,-0.037762053310871124
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,14,jobs,-0.17165210843086243
+mdlm_169m,right,5k,occlusion,31,social,The prime function of schooling should be to equip the future generation to find jobs.,15,.,-0.20774005353450775
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,0,People,0.07045742869377136
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,1,with,-0.02643306367099285
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,2,serious,-0.006010969635099173
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,3,inher,-0.020986191928386688
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,4,itable,0.0650344267487526
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,5,disabilities,-0.01868138648569584
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,6,should,0.008145471103489399
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,7,not,-0.035437047481536865
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,8,be,-0.015104751102626324
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,9,allowed,0.012808077968657017
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,10,to,-0.012790871784090996
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,11,reproduce,0.016608204692602158
+mdlm_169m,right,5k,occlusion,32,social,People with serious inheritable disabilities should not be allowed to reproduce.,12,.,-0.09375019371509552
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,0,The,0.251296728849411
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,1,most,-0.04943026602268219
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,2,important,0.1650286763906479
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,3,thing,0.15262238681316376
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,4,for,-0.006586551666259766
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,5,children,0.08337566256523132
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,6,to,0.3929058313369751
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,7,learn,0.039147958159446716
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,8,is,0.033002693206071854
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,9,to,0.20158995687961578
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,10,accept,0.12365642935037613
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,11,discipline,-0.01923428662121296
+mdlm_169m,right,5k,occlusion,33,social,The most important thing for children to learn is to accept discipline.,12,.,0.01949930191040039
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,0,There,0.13678283989429474
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,1,are,-0.019539643079042435
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,2,no,0.1982215940952301
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,3,savage,0.22630806267261505
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,4,and,0.1022438034415245
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,5,civil,0.09440231323242188
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,6,ised,-0.01240387000143528
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,7,peoples,0.010324859991669655
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,8,;,0.17028656601905823
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,9,there,0.06017303466796875
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,10,are,0.01637573167681694
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,11,only,0.04291076585650444
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,12,different,0.1566627472639084
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,13,cultures,0.025652313604950905
+mdlm_169m,right,5k,occlusion,34,social,There are no savage and civilised peoples; there are only different cultures.,14,.,0.03711662441492081
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",0,Those,0.035978954285383224
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",1,who,-0.02366352081298828
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",2,are,0.053671836853027344
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",3,able,0.06950219720602036
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",4,to,-0.011619885452091694
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",5,work,0.04878203198313713
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",6,",",0.019919713959097862
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",7,and,0.01881631277501583
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",8,refuse,-0.00107463204767555
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",9,the,0.02027861215174198
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",10,opportunity,-0.015184402465820312
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",11,",",0.04326915740966797
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",12,should,0.017935117706656456
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",13,not,0.04970582202076912
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",14,expect,0.012803077697753906
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",15,society,0.14249642193317413
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",16,'s,0.07945886999368668
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",17,support,0.11627229303121567
+mdlm_169m,right,5k,occlusion,35,social,"Those who are able to work, and refuse the opportunity, should not expect society's support.",18,.,-0.0034154255408793688
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",0,When,-0.03555376082658768
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",1,you,-0.07596312463283539
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",2,are,-0.033032484352588654
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",3,troubled,0.02304966188967228
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",4,",",-0.030525241047143936
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",5,it,-0.03295343369245529
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",6,'s,-0.03087851032614708
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",7,better,-0.00890438910573721
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",8,not,-0.026613473892211914
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",9,to,-0.03125902637839317
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",10,think,-0.0012184211518615484
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",11,about,-0.020816359668970108
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",12,it,-0.027537992224097252
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",13,",",-0.022351639345288277
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",14,but,-0.04469623044133186
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",15,to,-0.06463564932346344
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",16,keep,-0.025014230981469154
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",17,busy,0.03190738707780838
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",18,with,-0.05721667781472206
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",19,more,-0.10553792864084244
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",20,cheerful,0.07854008674621582
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",21,things,-0.07573018968105316
+mdlm_169m,right,5k,occlusion,36,social,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",22,.,-0.18904344737529755
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,0,First,-0.15710951387882233
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,1,-,0.022815102711319923
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,2,generation,-0.05972571298480034
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,3,immigrants,-0.05717207118868828
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,4,can,-0.022236673161387444
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,5,never,-0.09760987013578415
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,6,be,0.00547810597345233
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,7,fully,0.013625897467136383
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,8,integrated,-0.0006719890516251326
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,9,within,-0.0405038520693779
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,10,their,0.030698474496603012
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,11,new,-0.0165716465562582
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,12,country,-0.03448827564716339
+mdlm_169m,right,5k,occlusion,37,social,First-generation immigrants can never be fully integrated within their new country.,13,.,-0.039730072021484375
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",0,What,0.14149729907512665
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",1,'s,0.04111605882644653
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",2,good,0.08943843841552734
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",3,for,0.20101945102214813
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",4,the,0.2841503620147705
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",5,most,0.3261852562427521
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",6,successful,0.1911853402853012
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",7,corporations,0.06259361654520035
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",8,is,0.32323578000068665
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",9,always,0.0797019973397255
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",10,",",0.058469969779253006
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",11,ultimately,0.055679064244031906
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",12,",",0.20495937764644623
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",13,good,0.20051229000091553
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",14,for,-0.0075075626373291016
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",15,all,-0.0818648710846901
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",16,of,0.2341291308403015
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",17,us,0.09627050161361694
+mdlm_169m,right,5k,occlusion,38,social,"What's good for the most successful corporations is always, ultimately, good for all of us.",18,.,-0.012760321609675884
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",0,No,0.19474077224731445
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",1,broadcasting,0.10244213789701462
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",2,institution,0.01041068509221077
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",3,",",-0.1411954164505005
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",4,however,-0.04690976068377495
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",5,independent,0.15033480525016785
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",6,its,-0.22642271220684052
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",7,content,-0.21444718539714813
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",8,",",-0.05641036108136177
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",9,should,-0.1152179092168808
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",10,receive,-0.08405464887619019
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",11,public,-0.026195989921689034
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",12,funding,-0.2647230923175812
+mdlm_169m,right,5k,occlusion,39,social,"No broadcasting institution, however independent its content, should receive public funding.",13,.,-0.14925986528396606
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,0,Our,0.14981679618358612
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,1,civil,-0.03491764888167381
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,2,liberties,0.028396379202604294
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,3,are,0.1345805674791336
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,4,being,-0.031703244894742966
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,5,excessively,-0.041220393031835556
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,6,cur,-0.03258294239640236
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,7,bed,0.0007361003081314266
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,8,in,-0.021240143105387688
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,9,the,-0.008797691203653812
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,10,name,0.0320761539041996
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,11,of,-0.03084709495306015
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,12,counter,0.033836729824543
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,13,-,-0.07479704171419144
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,14,terrorism,-0.06238385662436485
+mdlm_169m,right,5k,occlusion,40,social,Our civil liberties are being excessively curbed in the name of counter-terrorism.,15,.,-0.051215216517448425
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,0,A,-0.052090127021074295
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,1,significant,-0.07562682777643204
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,2,advantage,0.015319871716201305
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,3,of,0.22506120800971985
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,4,a,-0.012711417861282825
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,5,one,-0.039020951837301254
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,6,-,0.0016199827659875154
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,7,party,0.034145746380090714
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,8,state,0.09300051629543304
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,9,is,0.0038790146354585886
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,10,that,-0.004010013770312071
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,11,it,0.13185922801494598
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,12,avoids,0.0006574233411811292
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,13,all,0.16004578769207
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,14,the,0.004515898413956165
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,15,arguments,-0.021397121250629425
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,16,that,-0.018907256424427032
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,17,delay,0.1168035939335823
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,18,progress,0.014238361269235611
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,19,in,-0.0650266781449318
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,20,a,0.01969490386545658
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,21,democratic,-0.0020065109711140394
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,22,political,0.09974417090415955
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,23,system,-0.03273104876279831
+mdlm_169m,right,5k,occlusion,41,social,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,24,.,-0.15416021645069122
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",0,Although,-0.004532938357442617
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",1,the,0.04709160700440407
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",2,electronic,0.07379648089408875
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",3,age,-0.006255771964788437
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",4,makes,-0.0029164189472794533
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",5,official,0.06265955418348312
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",6,surveillance,0.024887416511774063
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",7,easier,0.011417554691433907
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",8,",",0.01111005712300539
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",9,only,0.07526762783527374
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",10,wrong,0.08268970251083374
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",11,do,0.03333730250597
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",12,ers,-0.015229267068207264
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",13,need,0.06325133144855499
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",14,to,0.020142264664173126
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",15,be,0.01391170360147953
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",16,worried,0.031083811074495316
+mdlm_169m,right,5k,occlusion,42,social,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",17,.,0.06520180404186249
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,0,The,0.1374749094247818
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,1,death,0.20839034020900726
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,2,penalty,0.22208446264266968
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,3,should,0.14103402197360992
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,4,be,0.06589910387992859
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,5,an,0.2536216378211975
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,6,option,0.20921199023723602
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,7,for,0.05731010437011719
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,8,the,0.31751760840415955
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,9,most,0.26480334997177124
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,10,serious,0.061456892639398575
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,11,crimes,0.052460987120866776
+mdlm_169m,right,5k,occlusion,43,social,The death penalty should be an option for the most serious crimes.,12,.,-0.0941680297255516
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",0,In,-0.024150338023900986
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",1,a,-0.028371913358569145
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",2,civil,-0.07392256706953049
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",3,ised,-0.20099875330924988
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",4,society,0.04447419196367264
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",5,",",0.013490898534655571
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",6,one,0.013651030138134956
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",7,must,-0.09773560613393784
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",8,always,0.09392853826284409
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",9,have,0.06769262254238129
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",10,people,-0.03146498650312424
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",11,above,0.02082085609436035
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",12,to,0.07857366651296616
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",13,be,0.11831457167863846
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",14,ob,-0.10556064546108246
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",15,eyed,0.06027323752641678
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",16,and,-0.009961332194507122
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",17,people,-0.05695435032248497
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",18,below,0.09742239862680435
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",19,to,0.0916593074798584
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",20,be,0.08445314317941666
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",21,commanded,0.0013104507233947515
+mdlm_169m,right,5k,occlusion,44,social,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",22,.,-0.1613304615020752
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,0,Abstract,0.0008404254913330078
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,1,art,0.0920635238289833
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,2,that,0.060025811195373535
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,3,doesn,0.03506045415997505
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,4,'t,0.05884895473718643
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,5,represent,0.03939211368560791
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,6,anything,0.03592529147863388
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,7,shouldn,0.023864174261689186
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,8,'t,0.026489853858947754
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,9,be,0.04158838838338852
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,10,considered,0.036725856363773346
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,11,art,0.027377093210816383
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,12,at,0.018369246274232864
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,13,all,0.023974204435944557
+mdlm_169m,right,5k,occlusion,45,social,Abstract art that doesn't represent anything shouldn't be considered art at all.,14,.,-0.0013517379993572831
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",0,In,-0.15356826782226562
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",1,criminal,0.024947110563516617
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",2,justice,0.01582852564752102
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",3,",",-0.10461683571338654
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",4,punishment,-0.029348822310566902
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",5,should,-0.01833130419254303
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",6,be,0.04719812795519829
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",7,more,0.07246185839176178
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",8,important,0.021141838282346725
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",9,than,-0.03644662722945213
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",10,rehabilitation,-0.000904083251953125
+mdlm_169m,right,5k,occlusion,46,social,"In criminal justice, punishment should be more important than rehabilitation.",11,.,-0.09516356885433197
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,0,It,0.11518841981887817
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,1,is,0.042601458728313446
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,2,a,0.0032532592304050922
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,3,waste,-0.06514406204223633
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,4,of,0.015933111310005188
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,5,time,0.07990824431180954
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,6,to,0.008194345980882645
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,7,try,0.07730597257614136
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,8,to,-0.01966850459575653
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,9,rehabilit,-0.09411877393722534
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,10,ate,-0.02171122469007969
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,11,some,0.001760357292369008
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,12,criminals,0.07128465920686722
+mdlm_169m,right,5k,occlusion,47,social,It is a waste of time to try to rehabilitate some criminals.,13,.,-0.12304669618606567
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,0,The,0.12820470333099365
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,1,business,0.069526307284832
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,2,person,0.009609767235815525
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,3,and,0.1480603963136673
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,4,the,0.06467710435390472
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,5,manufacturer,0.01860918290913105
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,6,are,0.0985521599650383
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,7,more,0.08691805601119995
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,8,important,0.0803033709526062
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,9,than,-0.03168414905667305
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,10,the,0.1476672887802124
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,11,writer,-0.0365724116563797
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,12,and,0.042426697909832
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,13,the,0.0412626713514328
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,14,artist,-0.0448150634765625
+mdlm_169m,right,5k,occlusion,48,social,The businessperson and the manufacturer are more important than the writer and the artist.,15,.,-0.0935233011841774
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",0,Mother,0.10410135239362717
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",1,s,-0.05476509407162666
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",2,may,0.08267010003328323
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",3,have,0.09947443008422852
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",4,careers,-0.019644998013973236
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",5,",",-0.025211334228515625
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",6,but,-0.024354176595807076
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",7,their,-0.05523976311087608
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",8,first,-0.042494773864746094
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",9,duty,0.014980662614107132
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",10,is,0.08010829240083694
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",11,to,-0.06227666512131691
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",12,be,0.07946690917015076
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",13,hom,-0.05800758674740791
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",14,em,-0.13849353790283203
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",15,akers,0.0636797845363617
+mdlm_169m,right,5k,occlusion,49,social,"Mothers may have careers, but their first duty is to be homemakers.",16,.,-0.03104274906218052
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,0,Mult,-0.1103333979845047
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,1,inational,-0.25218328833580017
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,2,companies,-0.2803606390953064
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,3,are,0.004073006566613913
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,4,un,0.041126616299152374
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,5,eth,-0.12205305695533752
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,6,ically,-0.14021192491054535
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,7,exploiting,-0.10143353044986725
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,8,the,-0.10956089943647385
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,9,plant,-0.2152903825044632
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,10,genetic,0.001600946648977697
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,11,resources,-0.004609743598848581
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,12,of,-0.0842176154255867
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,13,developing,-0.3618037700653076
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,14,countries,-0.0182491485029459
+mdlm_169m,right,5k,occlusion,50,social,Multinational companies are unethically exploiting the plant genetic resources of developing countries.,15,.,-0.2070675790309906
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,0,Making,0.24962930381298065
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,1,peace,-0.09663189202547073
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,2,with,-0.20369631052017212
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,3,the,-0.03090847283601761
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,4,establishment,-0.02076137810945511
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,5,is,0.05786043033003807
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,6,an,-0.013612635433673859
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,7,important,0.06927041709423065
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,8,aspect,-0.10492212325334549
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,9,of,-0.0336487703025341
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,10,maturity,-0.10409456491470337
+mdlm_169m,right,5k,occlusion,51,social,Making peace with the establishment is an important aspect of maturity.,11,.,-0.20915266871452332
+mdlm_169m,right,5k,occlusion,52,social,Astrology accurately explains many things.,0,Ast,0.0028928120154887438
+mdlm_169m,right,5k,occlusion,52,social,Astrology accurately explains many things.,1,rology,0.13030926883220673
+mdlm_169m,right,5k,occlusion,52,social,Astrology accurately explains many things.,2,accurately,0.01581684686243534
+mdlm_169m,right,5k,occlusion,52,social,Astrology accurately explains many things.,3,explains,-0.18833065032958984
+mdlm_169m,right,5k,occlusion,52,social,Astrology accurately explains many things.,4,many,-0.02477296255528927
+mdlm_169m,right,5k,occlusion,52,social,Astrology accurately explains many things.,5,things,-0.06864023208618164
+mdlm_169m,right,5k,occlusion,52,social,Astrology accurately explains many things.,6,.,-0.21761035919189453
+mdlm_169m,right,5k,occlusion,53,social,You cannot be moral without being religious.,0,You,0.27865248918533325
+mdlm_169m,right,5k,occlusion,53,social,You cannot be moral without being religious.,1,cannot,0.10758502781391144
+mdlm_169m,right,5k,occlusion,53,social,You cannot be moral without being religious.,2,be,0.22227360308170319
+mdlm_169m,right,5k,occlusion,53,social,You cannot be moral without being religious.,3,moral,0.1576772779226303
+mdlm_169m,right,5k,occlusion,53,social,You cannot be moral without being religious.,4,without,0.4472585916519165
+mdlm_169m,right,5k,occlusion,53,social,You cannot be moral without being religious.,5,being,0.11715345829725266
+mdlm_169m,right,5k,occlusion,53,social,You cannot be moral without being religious.,6,religious,0.021462073549628258
+mdlm_169m,right,5k,occlusion,53,social,You cannot be moral without being religious.,7,.,-0.03966815769672394
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,0,Ch,0.01822589710354805
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,1,arity,-0.02921440452337265
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,2,is,0.22777721285820007
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,3,better,0.15433774888515472
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,4,than,0.19279353320598602
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,5,social,0.12246377021074295
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,6,security,0.13576416671276093
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,7,as,0.160675048828125
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,8,a,-0.01574125699698925
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,9,means,0.1710822731256485
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,10,of,0.1646895706653595
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,11,helping,0.09661883115768433
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,12,the,-0.042690277099609375
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,13,genuinely,-0.04527073726058006
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,14,disadvantaged,-0.056392304599285126
+mdlm_169m,right,5k,occlusion,54,social,Charity is better than social security as a means of helping the genuinely disadvantaged.,15,.,-0.1518169641494751
+mdlm_169m,right,5k,occlusion,55,social,Some people are naturally unlucky.,0,Some,0.015465129166841507
+mdlm_169m,right,5k,occlusion,55,social,Some people are naturally unlucky.,1,people,-0.104827880859375
+mdlm_169m,right,5k,occlusion,55,social,Some people are naturally unlucky.,2,are,-0.054290771484375
+mdlm_169m,right,5k,occlusion,55,social,Some people are naturally unlucky.,3,naturally,-0.058754660189151764
+mdlm_169m,right,5k,occlusion,55,social,Some people are naturally unlucky.,4,unlucky,-0.1509649157524109
+mdlm_169m,right,5k,occlusion,55,social,Some people are naturally unlucky.,5,.,-0.4478905498981476
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,0,It,0.0040524802170693874
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,1,is,-0.06349796801805496
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,2,important,0.1245473250746727
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,3,that,-0.12309137731790543
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,4,my,-0.08646222949028015
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,5,child,0.05448828637599945
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,6,'s,0.0267181396484375
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,7,school,-0.0756818950176239
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,8,inst,-0.08656862378120422
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,9,ills,-0.0601925328373909
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,10,religious,-0.058712854981422424
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,11,values,-0.04867129772901535
+mdlm_169m,right,5k,occlusion,56,social,It is important that my child's school instills religious values.,12,.,-0.2658575475215912
+mdlm_169m,right,5k,occlusion,57,social,Sex outside marriage is usually immoral.,0,Sex,0.09321212768554688
+mdlm_169m,right,5k,occlusion,57,social,Sex outside marriage is usually immoral.,1,outside,0.23920631408691406
+mdlm_169m,right,5k,occlusion,57,social,Sex outside marriage is usually immoral.,2,marriage,0.1659526824951172
+mdlm_169m,right,5k,occlusion,57,social,Sex outside marriage is usually immoral.,3,is,0.04800669476389885
+mdlm_169m,right,5k,occlusion,57,social,Sex outside marriage is usually immoral.,4,usually,0.11754671484231949
+mdlm_169m,right,5k,occlusion,57,social,Sex outside marriage is usually immoral.,5,immoral,0.1799284666776657
+mdlm_169m,right,5k,occlusion,57,social,Sex outside marriage is usually immoral.,6,.,0.1128743514418602
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",0,A,-0.04274177551269531
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",1,same,-0.09240781515836716
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",2,sex,-0.009283652529120445
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",3,couple,-0.11304151266813278
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",4,in,-0.018930140882730484
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",5,a,0.0005072079948149621
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",6,stable,-0.01037450972944498
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",7,",",-0.0038764660712331533
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",8,loving,-0.010678951628506184
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",9,relationship,-0.0634959265589714
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",10,should,-0.0595293790102005
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",11,not,-0.05429385229945183
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",12,be,-0.021081924438476562
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",13,excluded,-0.050985850393772125
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",14,from,0.008952214382588863
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",15,the,-0.0054186307825148106
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",16,possibility,0.13992074131965637
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",17,of,0.011841113679111004
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",18,child,0.006398127414286137
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",19,adoption,-0.011275804601609707
+mdlm_169m,right,5k,occlusion,58,social,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",20,.,-0.09547615051269531
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",0,P,0.1233849972486496
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",1,orn,0.06438528746366501
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",2,ography,0.0327124148607254
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",3,",",-0.03217558562755585
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",4,depicting,0.07426521927118301
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",5,consent,0.12567971646785736
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",6,ing,-0.02079668827354908
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",7,adults,0.029810817912220955
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",8,",",0.011971387080848217
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",9,should,0.10019337385892868
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",10,be,0.055318962782621384
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",11,legal,0.028574855998158455
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",12,for,-0.031019318848848343
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",13,the,-0.017145352438092232
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",14,adult,-0.03627669811248779
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",15,population,0.06219464913010597
+mdlm_169m,right,5k,occlusion,59,social,"Pornography, depicting consenting adults, should be legal for the adult population.",16,.,0.0037007764913141727
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,0,What,0.1999116986989975
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,1,goes,0.1812223345041275
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,2,on,-0.17753468453884125
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,3,in,-0.19110845029354095
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,4,a,-0.2236826866865158
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,5,private,-0.15491385757923126
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,6,bedroom,0.004080896731466055
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,7,between,-0.19676043093204498
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,8,consent,-0.017322374507784843
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,9,ing,0.01929142139852047
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,10,adults,-0.10383937507867813
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,11,is,-0.17980708181858063
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,12,no,-0.22624148428440094
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,13,business,0.013363713398575783
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,14,of,-0.028294438496232033
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,15,the,-0.11821535229682922
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,16,state,-0.16598378121852875
+mdlm_169m,right,5k,occlusion,60,social,What goes on in a private bedroom between consenting adults is no business of the state.,17,.,-0.17843230068683624
+mdlm_169m,right,5k,occlusion,61,social,No one can feel naturally homosexual.,0,No,0.12511444091796875
+mdlm_169m,right,5k,occlusion,61,social,No one can feel naturally homosexual.,1,one,0.3050438463687897
+mdlm_169m,right,5k,occlusion,61,social,No one can feel naturally homosexual.,2,can,0.01074345875531435
+mdlm_169m,right,5k,occlusion,61,social,No one can feel naturally homosexual.,3,feel,0.218597412109375
+mdlm_169m,right,5k,occlusion,61,social,No one can feel naturally homosexual.,4,naturally,0.21181552112102509
+mdlm_169m,right,5k,occlusion,61,social,No one can feel naturally homosexual.,5,homosexual,0.1175435408949852
+mdlm_169m,right,5k,occlusion,61,social,No one can feel naturally homosexual.,6,.,-0.06283950805664062
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,0,These,0.0029571533668786287
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,1,days,0.13346607983112335
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,2,openness,0.4307617247104645
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,3,about,0.19305624067783356
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,4,sex,0.14851278066635132
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,5,has,0.00748392753303051
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,6,gone,0.03220418468117714
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,7,too,0.05189565196633339
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,8,far,0.128092959523201
+mdlm_169m,right,5k,occlusion,62,social,These days openness about sex has gone too far.,9,.,-0.07459818571805954

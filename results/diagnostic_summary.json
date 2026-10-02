@@ -1,0 +1,74 @@
+{
+  "saliency__use_abs=True__spearman": {
+    "injection_response_1k": 0.03225806451612903,
+    "injection_response_5k": 0.22580645161290322,
+    "dose_response_left": 0.6129032258064516,
+    "dose_response_right": 0.7258064516129032
+  },
+  "saliency__use_abs=True__top_k_overlap": {
+    "injection_response_1k": 0.016129032258064516,
+    "injection_response_5k": 0.016129032258064516,
+    "dose_response_left": 0.3548387096774194,
+    "dose_response_right": 0.3870967741935484
+  },
+  "integrated_gradients__use_abs=True__spearman": {
+    "injection_response_1k": 0.04838709677419355,
+    "injection_response_5k": 0.27419354838709675,
+    "dose_response_left": 0.6129032258064516,
+    "dose_response_right": 0.5483870967741935
+  },
+  "integrated_gradients__use_abs=True__top_k_overlap": {
+    "injection_response_1k": 0.0,
+    "injection_response_5k": 0.0967741935483871,
+    "dose_response_left": 0.3225806451612903,
+    "dose_response_right": 0.2903225806451613
+  },
+  "integrated_gradients__use_abs=False__spearman": {
+    "injection_response_1k": 0.0,
+    "injection_response_5k": 0.22580645161290322,
+    "dose_response_left": 0.6774193548387096,
+    "dose_response_right": 0.6612903225806451
+  },
+  "integrated_gradients__use_abs=False__top_k_overlap": {
+    "injection_response_1k": 0.03225806451612903,
+    "injection_response_5k": 0.0967741935483871,
+    "dose_response_left": 0.3225806451612903,
+    "dose_response_right": 0.43548387096774194
+  },
+  "occlusion__use_abs=True__spearman": {
+    "injection_response_1k": 0.1774193548387097,
+    "injection_response_5k": 0.3548387096774194,
+    "dose_response_left": 0.5483870967741935,
+    "dose_response_right": 0.6612903225806451
+  },
+  "occlusion__use_abs=True__top_k_overlap": {
+    "injection_response_1k": 0.03225806451612903,
+    "injection_response_5k": 0.12903225806451613,
+    "dose_response_left": 0.3225806451612903,
+    "dose_response_right": 0.5483870967741935
+  },
+  "occlusion__use_abs=False__spearman": {
+    "injection_response_1k": 0.03225806451612903,
+    "injection_response_5k": 0.3064516129032258,
+    "dose_response_left": 0.7096774193548387,
+    "dose_response_right": 0.7258064516129032
+  },
+  "occlusion__use_abs=False__top_k_overlap": {
+    "injection_response_1k": 0.016129032258064516,
+    "injection_response_5k": 0.1935483870967742,
+    "dose_response_left": 0.5,
+    "dose_response_right": 0.4838709677419355
+  },
+  "random_baseline__use_abs=True__spearman": {
+    "injection_response_1k": 0.2903225806451613,
+    "injection_response_5k": 0.27419354838709675,
+    "dose_response_left": 0.5,
+    "dose_response_right": 0.5161290322580645
+  },
+  "random_baseline__use_abs=True__top_k_overlap": {
+    "injection_response_1k": 0.1935483870967742,
+    "injection_response_5k": 0.1935483870967742,
+    "dose_response_left": 0.2903225806451613,
+    "dose_response_right": 0.3225806451612903
+  }
+}
